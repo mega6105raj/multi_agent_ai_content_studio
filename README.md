@@ -1,6 +1,3 @@
-# Multi_agent_ai_content_studio
-Multi-Agent AI Content Studio: upload any video → get accurate captions (Whisper), smart highlight clips, and pro YouTube thumbnails automatically. 5 open-source agents (SigLIP, audio, vision, rembg) work together on free Colab T4
-
 # Multi-Agent AI Content Studio
 
 An autonomous video content analysis pipeline that processes an arbitrary input video and produces three deliverables: timestamped captions, highlight segments, and high-quality thumbnails. The system is implemented as a coordinated multi-agent architecture using only open-source models and runs entirely on a free Google Colab T4 GPU instance.
